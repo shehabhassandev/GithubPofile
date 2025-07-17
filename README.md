@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/NmP6xgG.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Shehab Hassan</h1>
-<h3 align="center">.CER Core & SQL Server Developer | Passionate about Clean Architecture</h3>
+<h3 align="center">.Net Core Developer | Passionate about Clean Architecture</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shehab-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="shehab-hassan" />
@@ -12,13 +12,13 @@
 
 ### 🚀 About Me
 
-- 💻 Backend Developer with focus on **.CER Core**, **MediatR**, and **Clean Architecture**
+- 💻 Backend Developer with focus on **.Net Core**, **MediatR**, and **Clean Architecture**
 - 🔍 Interested in **Microservices**, **REST APIs**, **Performance Optimization**
 - 💬 Ask me about:
-  - `C#`, `.CER Core`, `Entity Framework`
+  - `C#`,`OOP`,`Design Pattern`,`Dependency Injection`,`MVC`,`API`,  `.Net Core`, `Entity Framework core`
   - `SQL Server`, `Authentication`, `Authorization`
-- 🧰 Building eCommerce & Admin Dashboards with `MediatR + Role-based Auth`
-- 📫 Reach me: **your.email@example.com**
+- 🧰 Building eCommerce & Admin Dashboards with `asp Net + Bootstrap`
+- 📫 Reach me: **shehabhassan.dev@gmail.com**
 
 ---
 
@@ -39,13 +39,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourname" target="_blank">
+  <a href="www.linkedin.com/in/shehab-hassan-🇵🇸-5a426b211" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:shehabhassan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
