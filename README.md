@@ -1,5 +1,5 @@
 <!-- Cover Image -->
-<img src="https://i.ibb.co/qYwKh59z/github-cover.png" width="100%" />
+<img src="'https://i.postimg.cc/K1NTQrDX/github-cover.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Shehab Hassan</h1>
 <h3 align="center">.Net Core Developer | Passionate about Clean Architecture</h3>
