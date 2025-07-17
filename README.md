@@ -1,54 +1,64 @@
+<!-- Cover Image -->
+<img src="https://i.imgur.com/NmP6xgG.png" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Shehab Hassan</h1>
-<h3 align="center">A passionate .NET Developer from Egypt</h3>
+<h3 align="center">.CER Core & SQL Server Developer | Passionate about Clean Architecture</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shehab-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="shehab-hassan" />
 </p>
 
-- 🌱 I’m currently learning **Microservices, MediatR, Clean Architecture**
+---
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yourportfolio.com)
+### 🚀 About Me
 
-- 📝 I regularly write articles on [My Blog](https://yourblog.com)
-
-- 💬 Ask me about **.NET Core, MediatR, Web API, Razor Pages, Entity Framework**
-
-- 📫 How to reach me: **youremail@example.com**
-
-- ⚡ Fun fact: I love clean code and debugging 🧠
+- 💻 Backend Developer with focus on **.CER Core**, **MediatR**, and **Clean Architecture**
+- 🔍 Interested in **Microservices**, **REST APIs**, **Performance Optimization**
+- 💬 Ask me about:
+  - `C#`, `.CER Core`, `Entity Framework`
+  - `SQL Server`, `Authentication`, `Authorization`
+- 🧰 Building eCommerce & Admin Dashboards with `MediatR + Role-based Auth`
+- 📫 Reach me: **your.email@example.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://linkedin.com/in/yourname" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
-  <a href="https://yourportfolio.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C# / .CER Core"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🌐 Connect with Me
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".net" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <a href="https://linkedin.com/in/yourname" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<details>
-  <summary>📈 My GitHub Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shehab-hassan&show_icons=true&locale=en&theme=tokyonight" />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehab-hassan&theme=tokyonight" />
-  </p>
-</details>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shehab-hassan&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehab-hassan&theme=tokyonight" />
+</p>
 
 ---
 
