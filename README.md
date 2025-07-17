@@ -1,5 +1,5 @@
 <!-- Cover Image -->
-<img src="https://i.imgur.com/NmP6xgG.png" width="100%" />
+<img src="" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Shehab Hassan</h1>
 <h3 align="center">.Net Core Developer | Passionate about Clean Architecture</h3>
@@ -39,7 +39,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/shehab-hassan-🇵🇸-5a426b211" target="_blank">
+  <a href="https://www.linkedin.com/in/shehab-hassan-%F0%9F%87%B5%F0%9F%87%B8-5a426b211/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shehabhassan.dev@gmail.com">
